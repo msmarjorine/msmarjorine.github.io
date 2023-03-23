@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "https://msmarjorine.github.io/",
   "name": "msmarjorine",
   "short_name": "MM",
   "description": "msmarjorine personal page",
