@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "display": "standalone",
+  "start_url": "/",
+  "name": "msmarjorine",
+  "short_name": "MM",
+  "description": "msmarjorine personal page",
+  "background_color": "#162e12",
+  "theme_color": "#162e12",
+  "icons": [
+    {
+      "src": "pictures/icons/70square.png",
+      "sizes": "70x70",
+      "type": "image/png"
+    },
+    {
+      "src": "pictures/icons/150square.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "pictures/icons/310square.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    }
+  ]
+}
