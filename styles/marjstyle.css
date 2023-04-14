@@ -239,6 +239,7 @@ footer {
     font-size: 20px;
     background-color: #c2ddbd;
     transform: none;
+    transition: none;
   }
 
   .tab_btn_active {
