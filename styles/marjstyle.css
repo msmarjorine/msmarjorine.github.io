@@ -249,4 +249,8 @@ footer {
   .tab_content-active {
     height: auto;
   }
+
+  .info {
+    width: 70vw;
+  }
 }
